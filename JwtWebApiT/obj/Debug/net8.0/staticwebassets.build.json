@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xg7bpkEWzh79Jzu01w6yDJvTBolHWBL0YTLEDSbViTQ=",
+  "Source": "JwtWebApiT",
+  "BasePath": "_content/JwtWebApiT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
