@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\jwtwebapit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\jwtwebapit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\servicies\\userservicies\\userservicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\servicies\\userservicies\\userservicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\servicies\\userservicies\\iuserservicie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\servicies\\userservicies\\iuserservicie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|solutionrelative:jwtwebapit\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D1DEC4-2037-431E-A36D-4540C4BA9D94}|JwtWebApiT\\JwtWebApiT.csproj|c:\\users\\oalej\\code\\csharpprojects\\web api\\jwtwebapit\\jwtwebapit\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +50,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "JwtWebApiT\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\RefreshToken.cs",
+              "RelativeToolTip": "JwtWebApiT\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:53:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServicies.cs",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Servicies\\UserServicies\\UserServicies.cs",
+              "RelativeDocumentMoniker": "JwtWebApiT\\Servicies\\UserServicies\\UserServicies.cs",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Servicies\\UserServicies\\UserServicies.cs",
+              "RelativeToolTip": "JwtWebApiT\\Servicies\\UserServicies\\UserServicies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:33:27.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserServicie.cs",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Servicies\\UserServicies\\IUserServicie.cs",
+              "RelativeDocumentMoniker": "JwtWebApiT\\Servicies\\UserServicies\\IUserServicie.cs",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Servicies\\UserServicies\\IUserServicie.cs",
+              "RelativeToolTip": "JwtWebApiT\\Servicies\\UserServicies\\IUserServicie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:33:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtWebApiT.csproj",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\JwtWebApiT.csproj",
+              "RelativeDocumentMoniker": "JwtWebApiT\\JwtWebApiT.csproj",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\JwtWebApiT.csproj",
+              "RelativeToolTip": "JwtWebApiT\\JwtWebApiT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T21:33:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Program.cs",
+              "RelativeDocumentMoniker": "JwtWebApiT\\Program.cs",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Program.cs",
+              "RelativeToolTip": "JwtWebApiT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:31:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JwtWebApiT\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JwtWebApiT\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA0wBUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:28:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\appsettings.Development.json",
               "RelativeDocumentMoniker": "JwtWebApiT\\appsettings.Development.json",
@@ -38,25 +136,24 @@
               "RelativeToolTip": "JwtWebApiT\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T18:18:40.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:18:40.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\User.cs",
               "RelativeDocumentMoniker": "JwtWebApiT\\User.cs",
               "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\User.cs",
               "RelativeToolTip": "JwtWebApiT\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T03:57:06.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\UserDto.cs",
               "RelativeDocumentMoniker": "JwtWebApiT\\UserDto.cs",
@@ -68,13 +165,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "JwtWebApiT\\Controllers\\ValuesController.cs",
               "ToolTip": "C:\\Users\\oalej\\Code\\CsharpProjects\\Web API\\JwtWebApiT\\JwtWebApiT\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "JwtWebApiT\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAiwEEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAxwDkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T03:55:20.448Z",
               "EditorCaption": ""

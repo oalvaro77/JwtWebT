@@ -1,6 +1,26 @@
 [
   {
     "ContainingType": "JwtWebApiT.Controllers.ValuesController",
+    "Method": "GetMe",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "JwtWebApiT.Controllers.ValuesController",
     "Method": "Login",
     "RelativePath": "api/Values/Login",
     "HttpMethod": "POST",
@@ -13,6 +33,26 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "JwtWebApiT.Controllers.ValuesController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Values/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "System.String",
